@@ -34,4 +34,4 @@ Play against the computer, track your score, and enjoy smooth animations and glo
 
 Create by: Azhar Ali Sheeno
 
-
+<img width="1591" height="701" alt="Image" src="https://github.com/user-attachments/assets/1e297722-e243-4fe9-a18e-84d40e87ea2f" />
