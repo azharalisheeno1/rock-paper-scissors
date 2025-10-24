@@ -32,7 +32,6 @@ Play against the computer, track your score, and enjoy smooth animations and glo
    ```bash
    git clone https://github.com/your-username/rock-paper-scissors.git
 
-   <img width="1591" height="701" alt="Image" src="https://github.com/user-attachments/assets/ff81d199-802f-4b7b-9a7d-7393ce5b28e6" />
-
-
 Create by: Azhar Ali Sheeno
+
+
