@@ -1,11 +1,11 @@
-# 🎮 Rock Paper Scissors Game ✂️
+# Rock Paper Scissors Game 
 
 A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**.  
 Play against the computer, track your score, and enjoy smooth animations and glowing effects! ⚡
 
 ---
 
-## 🌟 Features
+#Features
 
 - 🧠 Play against a smart computer (randomized choices)
 - 💥 Animated UI with hover & click effects
@@ -16,7 +16,7 @@ Play against the computer, track your score, and enjoy smooth animations and glo
 
 ---
 
-## 🧩 Tech Stack
+##Tech Stack
 
 | Technology | Purpose |
 |-------------|----------|
@@ -31,6 +31,8 @@ Play against the computer, track your score, and enjoy smooth animations and glo
 1. **Clone or Download** this repository:
    ```bash
    git clone https://github.com/your-username/rock-paper-scissors.git
+
+   <img width="1591" height="701" alt="Image" src="https://github.com/user-attachments/assets/ff81d199-802f-4b7b-9a7d-7393ce5b28e6" />
 
 
 Create by: Azhar Ali Sheeno
